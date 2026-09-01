@@ -6,6 +6,14 @@
         <description>Updates für die Remotepad Mac-App</description>
         <language>de</language>
         <item>
+            <title>1.2</title>
+            <pubDate>Tue, 01 Sep 2026 14:36:50 +0200</pubDate>
+            <sparkle:version>3</sparkle:version>
+            <sparkle:shortVersionString>1.2</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/n8sdk2vwbz-tech/remotepad-releases/releases/download/v1.2/Remotepad-1.2.zip" length="1754030" type="application/octet-stream" sparkle:edSignature="22S1LpFYq4j3MZnKvwEacF4NEsuqOQCJuS+hQW2OQKZsQBsW3MuPKDQBIbm/nlTdBw2+pty7Q1zIHD8u7HbQDg=="/>
+        </item>
+        <item>
             <title>1.1</title>
             <pubDate>Mon, 31 Aug 2026 16:06:22 +0200</pubDate>
             <sparkle:version>2</sparkle:version>
